@@ -83,7 +83,6 @@ fun BillTopAppBar(modifier: Modifier = Modifier) {
     CenterAlignedTopAppBar(
         colors = TopAppBarDefaults.topAppBarColors(
             containerColor = MaterialTheme.colorScheme.primaryContainer,
-//            titleContentColor = MaterialTheme.colorScheme.primary,
         ),
         title = {
             Row(
