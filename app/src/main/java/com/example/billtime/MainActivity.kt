@@ -67,10 +67,10 @@ fun BillTimeApp(modifier: Modifier = Modifier) {
         topBar = {
             BillTopAppBar()
         },
-    ) { it ->
+    ) { innerPadding ->
         Column(
             modifier = Modifier
-                .padding(paddingValues = it)
+                .padding(paddingValues = innerPadding)
         ) {
             BillTimeLayout()
         }
