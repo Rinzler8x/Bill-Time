@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bill Time</string>
+    <string name="calculate_tip">Calculate Split</string>
+    <string name="person_count">Person Count</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="how_was_the_service">Tip Percentage</string>
+    <string name="round_up_tip">Round up?</string>
+    <string name="tip_amount">Split Amount: %s</string>
+</resources>
